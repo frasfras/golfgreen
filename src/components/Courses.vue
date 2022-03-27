@@ -1,5 +1,5 @@
 <template>
-  <h1> Sustainable Water plan</h1> 
+  <h1> Sustainable Watering plan</h1> 
    <div class="container">
       <table id="demo-table-id" class="table table-striped">
         <caption></caption>
