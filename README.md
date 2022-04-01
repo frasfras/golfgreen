@@ -1,2 +1,2 @@
 # golfgreen
-see green_golf
+see frasfras/green_golf
